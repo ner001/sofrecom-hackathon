@@ -2,6 +2,10 @@
 
 🚀 **Multimodal Email Assistant Backend** powered by Google Gemini AI
 
+<p align="center">
+  <img src="mail-mate.png" alt="MailMate AI interface" width="800"/>
+</p>
+
 ## 🎉 NEW: Automatic Gmail Authentication!
 
 ✅ **One-time setup** - Authenticate once, work forever  
